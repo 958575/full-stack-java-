@@ -18,10 +18,10 @@ public class UserInterface {
 		ch=sc.nextInt();
 		switch(ch)
 			{
-				case 1: System.out.println("enter thecountry name");
+				case 1: System.out.println("enter the country name : ");
 						sc.nextLine();
 						cname=sc.nextLine();
-						System.out.println("Enter the capital name");
+						System.out.println("Enter the capital name : ");
 						capname=sc.nextLine();
 						obj.add(cname,capname);
 						break;
@@ -31,7 +31,7 @@ public class UserInterface {
 						}
 						else
 						{
-							System.out.println("Enter the country name");
+							System.out.println("Enter the country name : ");
 							sc.nextLine();
 							cname=sc.nextLine();
 							String ans=obj.search(cname);
