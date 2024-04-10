@@ -1,0 +1,41 @@
+1.Add
+2.Search
+3.Exit
+Enter your choice : 
+1
+enter the country name : 
+germany
+Enter the capital name : 
+berlin
+1.Add
+2.Search
+3.Exit
+Enter your choice : 
+1
+enter the country name : 
+italy
+Enter the capital name : 
+rome
+1.Add
+2.Search
+3.Exit
+Enter your choice : 
+1
+enter the country name : 
+france
+Enter the capital name : 
+paris
+1.Add
+2.Search
+3.Exit
+Enter your choice : 
+2
+Enter the country name : 
+italy
+rome
+1.Add
+2.Search
+3.Exit
+Enter your choice : 
+3
+Thank you for using the application
