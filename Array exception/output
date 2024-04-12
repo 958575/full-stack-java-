@@ -1,0 +1,11 @@
+Enter the size of an array
+5
+Enter the array elements
+45
+76
+89
+23
+65
+Enter the position of the element to be replicated
+3
+The array elements are 45 76 89 23 23 65
